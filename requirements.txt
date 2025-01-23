@@ -1,4 +1,4 @@
-torch
+torch+cpu
 torchvision
 easyocr
 Werkzeug
@@ -16,3 +16,4 @@ xlsxwriter
 Flask
 gunicorn
 docx2txt
+gevent
